@@ -21,12 +21,16 @@
 title: SKV Group
 email: skvgroupnet@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  SKV Group is building Apps for monday marketplace
+  SKV Group is building Apps for monday and Atlassian marketplaces
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
+header_pages:
+  - project-progress-tracker.markdown
+  - workflow-management.markdown
+  - about.markdown
 #plugins:
   #- jekyll-feed
 
