@@ -5,10 +5,21 @@
 layout: home
 ---
 
+![configure](/assets/images/project-progress-tracker.png){: width="40px" }
+## [Project Progress Tracker](/project-progress-tracker)
+
+Show everyone how your project is going
+
+
 
 {::nomarkdown}
+<br/>
+<br/>
+<br/>
+<img src="/assets/images/workflow-management.jpeg" style="width: 40px;border-radius: 5px;margin-bottom: 15px;display: block;"/>
+
 <a href="/workflow-management">
-<h2 style="margin-right: 20px; display: inline;">Workflow Management</h2>
+<h2 style="margin: 5px 70px 0 0; display: inline;">Workflow Management</h2>
 </a>
 
 <a style="text-decoration: none;background-color: #333333;padding: 10px;color: white;border-radius: 10px;" href="https://auth.monday.com/oauth2/authorize?client_id=f3f1b943f3e05f6ccff9cd79a2ec3b22&amp;response_type=install" target="_blank">
@@ -23,7 +34,4 @@ Create, customize, and control your workflow with the Workflow Management app.
 
 {::nomarkdown}<br/>{:/}
 
-## [Project Progress Tracker](/project-progress-tracker)
-
-Show everyone how your project is going
 
