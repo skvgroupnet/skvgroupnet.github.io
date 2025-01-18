@@ -28,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 theme: minima
 header_pages:
-  - project-progress-tracker.markdown
+  - project-progress-tracker-doc.markdown
   - workflow-management.markdown
   - about.markdown
 #plugins:

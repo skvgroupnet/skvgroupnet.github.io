@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documentation
+title: Project Progress Tracker
 permalink: /project-progress-tracker-documentation
 ---
 

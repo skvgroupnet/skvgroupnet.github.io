@@ -6,7 +6,7 @@ layout: home
 ---
 
 ![configure](/assets/images/project-progress-tracker.png){: width="40px" }
-## [Project Progress Tracker](/project-progress-tracker)
+## [Project Progress Tracker](/project-progress-tracker-documentation)
 
 Show everyone how your project is going
 
